@@ -71,6 +71,6 @@
 
 
 
-*For 3D reconstruction from monocular videos, please also check our previous work [S3O & LIMR](https://github.com/haoz19/LIMR)*
+*For 3D reconstruction from monocular videos, please also check our previous work [S3O & LIMR](https://github.com/haoz19/LIMR)!*
 
 *For 2D video motion retargeting and animation, please also check our previous work <a href="https://github.com/Boese0601/MagicDance">MagicPose</a>!*

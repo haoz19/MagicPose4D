@@ -32,8 +32,33 @@
 
 *We introduce MagicPose4D, a novel framework for 4D generation providing more accurate and customizable 4D motion retargeting. We propose a dual-phase reconstruction process that initially uses accurate 2D and pseudo 3D supervision without skeleton constraints, and subsequently refines the model with skeleton constraints to ensure physical plausibility. We incorporate a novel Global-Local Chamfer loss function that aligns the overall distribution of mesh vertices with the supervision and maintains part-level alignment without additional annotations. Our method enables cross-category motion transfer using a kinematic-chain-based skeleton, ensuring smooth transitions between frames through dynamic rigidity and achieving robust generalization without the need for additional training.*
 
-*For 2D video motion retargeting and animation, please also check our previous work <a href="https://github.com/Boese0601/MagicDance">MagicPose</a>!*
+
+
 
 
 ## News
-* **[2023.11.18]** Release MagicPose4D paper and project page.
+* **[2024.5.22]** Release MagicPose4D paper and project page.
+* **[2024.5.22]** Release Python bindings for [Automatic-Rigging](https://github.com/haoz19/Automatic-Rigging).
+
+
+## Automatic Rigging
+
+* Please follow the repository: [Automatic-Rigging](https://github.com/haoz19/Automatic-Rigging) to install the package.
+
+* This package is for calculating skinning weights and aligning the mesh with template skeletons.
+  
+
+## Dual-phase 4D Reconstruction Module
+
+* Code coming soon
+
+* You can also check [LIMR/S3O](https://github.com/haoz19/LIMR), [LASR](https://github.com/google/lasr), and [BANMo](https://github.com/facebookresearch/banmo) for reconstructing articulated objects from monocular videos.
+
+## Cross-Category Pose Transfer Module
+
+
+
+
+
+
+*For 2D video motion retargeting and animation, please also check our previous work <a href="https://github.com/Boese0601/MagicDance">MagicPose</a>!*

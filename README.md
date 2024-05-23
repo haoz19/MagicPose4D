@@ -37,15 +37,20 @@
 
 
 ## News
+* **[2024.5.22]** Demo for the whole MagicPose4D pipeline is coming soon.
 * **[2024.5.22]** Release MagicPose4D paper and project page.
 * **[2024.5.22]** Release Python bindings for [Automatic-Rigging](https://github.com/haoz19/Automatic-Rigging).
 
 
-## Automatic Rigging
+## Install
 
 * Please follow the repository: [Automatic-Rigging](https://github.com/haoz19/Automatic-Rigging) to install the package.
 
-* This package is for calculating skinning weights and aligning the mesh with template skeletons.
+  This package is for calculating skinning weights and aligning the mesh with template skeletons.
+
+* Install manifold remeshing:
+  `git clone --recursive git@github.com:hjwdzh/Manifold.git; cd Manifold; mkdir build; cd build; cmake .. -DCMAKE_BUILD_TYPE=Release;make -j8; cd ../../`
+
   
 
 ## Dual-phase 4D Reconstruction Module

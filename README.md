@@ -50,15 +50,22 @@
 
 ## Dual-phase 4D Reconstruction Module
 
-* Code coming soon
-
-* You can also check [LIMR/S3O](https://github.com/haoz19/LIMR), [LASR](https://github.com/google/lasr), and [BANMo](https://github.com/facebookresearch/banmo) for reconstructing articulated objects from monocular videos.
+* First-phase: Code coming soon
+  
+  For the first-phase we only want to get a sequcense of accurate 3D meshes, you can also consider other existing 4D recosntruction methods such as: [LIMR/S3O](https://github.com/haoz19/LIMR), [LASR](https://github.com/google/lasr), and [BANMo](https://github.com/facebookresearch/banmo) for reconstructing articulated objects from monocular videos.
+* Second-phase: `<root>/PoseTransfer/batch_run.sh`
+  
+  This step ensures the skinning weights and skeleton are physically plausible.
 
 ## Cross-Category Pose Transfer Module
 
+* Reference to our [demo](https://github.com/haoz19/MagicPose4D/blob/main/PoseTransfer/PoseTransfer_demo.ipynb).
 
 
 
 
+
+
+*For 3D reconstruction from monocular videos, please also check our previous work [S3O & LIMR](https://github.com/haoz19/LIMR)*
 
 *For 2D video motion retargeting and animation, please also check our previous work <a href="https://github.com/Boese0601/MagicDance">MagicPose</a>!*

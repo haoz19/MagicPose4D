@@ -17,7 +17,7 @@
     <sup>*</sup>Equal Contribution &nbsp;&nbsp;&nbsp; <sup><span>&#8224;</span></sup>Equal Advising
     <br>
     </br>
-        <a href="">
+        <a href="https://arxiv.org/abs/2405.14017">
         <img src='https://img.shields.io/badge/arXiv-MagicPose4D-green' alt='Paper PDF'>
         </a>
         <a href='https://boese0601.github.io/magicpose4d/'>

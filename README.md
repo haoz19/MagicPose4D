@@ -32,7 +32,9 @@
 
 *We introduce MagicPose4D, a novel framework for 4D generation providing more accurate and customizable 4D motion retargeting. We propose a dual-phase reconstruction process that initially uses accurate 2D and pseudo 3D supervision without skeleton constraints, and subsequently refines the model with skeleton constraints to ensure physical plausibility. We incorporate a novel Global-Local Chamfer loss function that aligns the overall distribution of mesh vertices with the supervision and maintains part-level alignment without additional annotations. Our method enables cross-category motion transfer using a kinematic-chain-based skeleton, ensuring smooth transitions between frames through dynamic rigidity and achieving robust generalization without the need for additional training.*
 
+*For 3D reconstruction from monocular videos, please also check our previous work [S3O & LIMR](https://github.com/haoz19/LIMR)!*
 
+*For 2D video motion retargeting and animation, please also check our previous work <a href="https://github.com/Boese0601/MagicDance">MagicPose</a>!*
 
 
 
@@ -129,10 +131,19 @@
 * Reference to our [demo](https://github.com/haoz19/MagicPose4D/blob/main/PoseTransfer/PoseTransfer_demo.ipynb).
 
 
+## Citing
+If you find our work useful, please consider citing:
+```BibTeX
+@misc{zhang2024magicpose4d,
+      title={MagicPose4D: Crafting Articulated Models with Appearance and Motion Control}, 
+      author={Hao Zhang and Di Chang and Fang Li and Mohammad Soleymani and Narendra Ahuja},
+      year={2024},
+      eprint={2405.14017},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 
 
 
-*For 3D reconstruction from monocular videos, please also check our previous work [S3O & LIMR](https://github.com/haoz19/LIMR)!*
-
-*For 2D video motion retargeting and animation, please also check our previous work <a href="https://github.com/Boese0601/MagicDance">MagicPose</a>!*

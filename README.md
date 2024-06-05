@@ -6,7 +6,7 @@
     ·  
     <a href="https://boese0601.github.io/"><strong>Di Chang</strong></a><sup>2*</sup>
     ·
-    <a href="https://www.linkedin.com/in/fang-li-8ab696223/"><strong>Fang Li</strong></a><sup>1</sup>
+    <a href="https://fangli333.github.io/"><strong>Fang Li</strong></a><sup>1</sup>
     ·
     <a href="https://www.ihp-lab.org/"><strong>Mohammad Soleymani</strong></a><sup>2<span>&#8224;</span></sup>
     ·

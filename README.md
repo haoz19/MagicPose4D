@@ -50,7 +50,7 @@
   ```
   git clone https://github.com/haoz19/Automatic-Rigging.git
   cd Automatic-Rigging
-  python setup.py install
+  pip install .
   ```
 
   This package is for calculating skinning weights and aligning the mesh with template skeletons.

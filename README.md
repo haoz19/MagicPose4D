@@ -8,13 +8,13 @@
     ·
     <a href="https://fangli333.github.io/"><strong>Fang Li</strong></a><sup>1</sup>
     ·
-    <a href="https://www.ihp-lab.org/"><strong>Mohammad Soleymani</strong></a><sup>2<span>&#8224;</span></sup>
+    <a href="https://www.ihp-lab.org/"><strong>Mohammad Soleymani</strong></a><sup>2</sup>
     ·
-    <a href="https://vision.ai.illinois.edu/narendra-ahuja/"><strong>Narendra Ahuja</strong></a><sup>1<span>&#8224;</span></sup>
+    <a href="https://vision.ai.illinois.edu/narendra-ahuja/"><strong>Narendra Ahuja</strong></a><sup>1</sup>
     <br>
     <sup>1</sup>University of Illinois Urbana-Champaign &nbsp;&nbsp;&nbsp; <sup>2</sup>University of Southern California
     <br>
-    <sup>*</sup>Equal Contribution &nbsp;&nbsp;&nbsp; <sup><span>&#8224;</span></sup>Equal Advising
+    <sup>*</sup>Equal Contribution &nbsp;&nbsp;&nbsp; 
     <br>
     </br>
         <a href="https://arxiv.org/abs/2405.14017">

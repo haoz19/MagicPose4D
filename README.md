@@ -20,7 +20,7 @@
         <a href="https://arxiv.org/abs/2405.14017">
         <img src='https://img.shields.io/badge/arXiv-MagicPose4D-green' alt='Paper PDF'>
         </a>
-        <a href='https://boese0601.github.io/magicpose4d/'>
+        <a href='https://magicpose4d.github.io/'>
         <img src='https://img.shields.io/badge/Project_Page-MagicPose4D-blue' alt='Project Page'></a>
         <!-- <a href='https://youtu.be/VPJe6TyrT-Y'>
         <img src='https://img.shields.io/badge/YouTube-MagicPose-rgb(255, 0, 0)' alt='Youtube'></a> -->
